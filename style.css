@@ -1,6 +1,6 @@
 body {
 
-    background-color:hotpink #CcCCcC
+    background-color:hotpink 
 }
      #banner {     
       width: 100%;
@@ -18,7 +18,7 @@ body {
      }
 
      #missao {
-         font-size: larger;
+         font-size: 20px;
      }
       em strong {
         color: rgb(199, 157, 238) 
